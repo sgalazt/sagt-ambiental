@@ -1,0 +1,20 @@
+#inicio, #servicios, #perfil-profesional, #contacto{
+    height: 100vh;
+}
+
+#inicio {
+    background-color: #2f4f3e;
+    color: #f2f2ee;
+}
+#servicios {
+    background-color: #a9c4a3;
+    color: #2e2e2e;
+}
+#perfil-profesional {
+    background-color: #2f4f3e;
+    color: #f2f2ee;
+}
+#contacto{
+    background-color: #a9c4a3;
+    color: #2e2e2e;
+}
