@@ -1,5 +1,12 @@
+:root{
+    --nav-height: 60px;
+}
+
+* { box-sizing: border-box;}
+
 #inicio, #servicios, #perfil-profesional, #contacto{
     height: 100vh;
+    padding-top: var(--nav-height);
 }
 h1, h2, h3, h4{
     margin: 0;
@@ -8,6 +15,7 @@ h1, h2, h3, h4{
 nav {
     top: 0;
     position: fixed;
+    height: var(--nav-height);
     width: 100vw;
 }
 
